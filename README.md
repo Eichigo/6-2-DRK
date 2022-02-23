@@ -10,6 +10,8 @@ More than ever this savage raid tier (Eden's Promise), top speedrunners kept the
 
 Videos of Keelan running through each fight are featured throughout this article too, check out his [rank 2 12s “Door” boss kill of Eden’s Promise!](https://www.youtube.com/watch?v=OlRLcc4DCqs)
 
+# Origin Story
+
 Originally, the goal was to pop Living Shadow earlier in my opener. Living Shadow takes roughly 7s before it begins doing damage, so I wanted to use it as early as possible to get as many of its attacks as possible in the raid buff window. Doing so required using Blood Weapon earlier too, because the blood gauge generated from Blood Weapon is needed to get Living Shadow out as soon as possible.
 
 However in trying to do that, because I’d have a full MP gauge and blood weapon generates MP on each GCD hit, I would overcap in MP and waste the 600 MP gained on my first GCD. To negate that, I was forced to TBN pre-pull.
