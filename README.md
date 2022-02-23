@@ -103,29 +103,22 @@ You can execute this setup from between 9,400 to 10,000 MP. Two TBNs need to be 
 
 **More than 15s before the raid buff window, to store a Dark Arts proc:**
 
-At 9400+ MP use 
-
-The Blackest Night
-
-First The Blackest Night breaks
++ At 9400+ MP use 
++ The Blackest Night
++ First The Blackest Night breaks
 
 **Right before upcoming raid buff window, to set up:**
 
-at 9400+ MP use 
-
-The Blackest Night > GCD > GCD
-
-(this TBN cannot break early)
++ at 9400+ MP use 
++ The Blackest Night > GCD > GCD
++ (this TBN cannot break early)
 
 **As raid buff window begins:**
 
-Use first Dark Arts proc on 
-
-Edge of Shadow > GCD > use Edge of Shadow -3000MP
-
-Second The Blackest Night breaks > GCD > Use 2nd Dark Arts Proc on Edge of Shadow
-
-GCD > Edge of Shadow > continue spending MP on Edge of Shadow between GCDs  …
++ Use first Dark Arts proc on 
++ Edge of Shadow > GCD > use Edge of Shadow -3000MP
++ Second The Blackest Night breaks > GCD > Use 2nd Dark Arts Proc on Edge of Shadow
++ GCD > Edge of Shadow > continue spending MP on Edge of Shadow between GCDs  …
 
 # WHERE AND WHEN TO USE IT?
 
