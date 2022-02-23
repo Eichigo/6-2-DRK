@@ -45,23 +45,15 @@ That’s where you find this kind of optimization. And nowadays, the best Dark K
 
 Some of the challenges this rotation faces:
 
-Situations where pre-pull TBN couldn’t be used, either for planned mitigation shortly after the opener, or because the TBN shield wouldn’t be consumed.
++ Situations where pre-pull TBN couldn’t be used, either for planned mitigation shortly after the opener, or because the TBN shield wouldn’t be consumed.
++ Need to know who is taking the first auto attacks because there will only be 3s remaining on TBN (when used 4s pre-pull).
++ Usually in the first three seconds the boss does two auto attacks. For this rotation, TBN must be consumed naturally during this window, but as some bosses can attack with two auto attacks immediately on pull, this can result in TBN being consumed before you get to spend any MP, meaning your MP gauge is too full to store the extra MP generated.
++ Need to have a great co-tank. Really, this wouldn’t have been possible without Kaysher Einzbern. It was a real duo-work every new pull to find solutions to increase the chances of TBN proc’ing correctly to avoid our group having to jump during the opener when it didn’t.
++ (At this point I need to point out a time loss for the group, averaging dozens of minutes per raid session (4-5h), because of failed TBNs on pull)
++ Need to know the precise GCD in which TBN will break.
++ In E11S we had an MP tick issue with our BLM. I wouldn’t recommend trying to replicate my E11S rotation as we noticed an error way after the fact. Our BLM lost some Fire IVs because of server tick sync issues, which for some reason only happened to us in E11S. The solution would have been to let the BLM pull so that he wouldn’t lose any cast time, and do the Dark Knight opener as usual, with the only difference being to aim for one MP tick (600 instead of 1200). This isn’t as much of an issue for this specific fight since a 2/6 rotation isn’t possible for every burst with a raid buff window at 4:30 with pots due to the downtime phasing. (And, I couldn’t get TBN to proc at that timing, at least not with how our alignment was set up.)
 
-Need to know who is taking the first auto attacks because there will only be 3s remaining on TBN (when used 4s pre-pull).
-
-Usually in the first three seconds the boss does two auto attacks. For this rotation, TBN must be consumed naturally during this window, but as some bosses can attack with two auto attacks immediately on pull, this can result in TBN being consumed before you get to spend any MP, meaning your MP gauge is too full to store the extra MP generated.
-
-Need to have a great co-tank. Really, this wouldn’t have been possible without Kaysher Einzbern. It was a real duo-work every new pull to find solutions to increase the chances of TBN proc’ing correctly to avoid our group having to jump during the opener when it didn’t.
-
-(At this point I need to point out a time loss for the group, averaging dozens of minutes per raid session (4-5h), because of failed TBNs on pull)
-
-Need to know the precise GCD in which TBN will break.
-
-In E11S we had an MP tick issue with our BLM. I wouldn’t recommend trying to replicate my E11S rotation as we noticed an error way after the fact.
-
-Our BLM lost some Fire IVs because of server tick sync issues, which for some reason only happened to us in E11S.
-
-The solution would have been to let the BLM pull so that he wouldn’t lose any cast time, and do the Dark Knight opener as usual, with the only difference being to aim for one MP tick (600 instead of 1200). This isn’t as much of an issue for this specific fight since a 2/6 rotation isn’t possible for every burst with a raid buff window at 4:30 with pots due to the downtime phasing. (And, I couldn’t get TBN to proc at that timing, at least not with how our alignment was set up.)
+Editor's Note: [Here's that 11s run he's talking about](https://www.youtube.com/watch?v=Xmfm4b1z7P8)
 
 # THE MATH & THEORY
 
